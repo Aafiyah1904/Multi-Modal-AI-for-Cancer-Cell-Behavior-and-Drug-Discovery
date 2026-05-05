@@ -26,7 +26,7 @@ This project presents a multi-modal AI framework that integrates histopathology 
 * `knowledge_graph/` – graph-based representations
 * `xai/` – explainability components
 
-## 📊 Dataset
+##  Dataset
 
 Due to size limitations, datasets are not included in this repository.
 
