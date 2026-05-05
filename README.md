@@ -57,6 +57,6 @@ streamlit run streamlit_app/app.py
 * Integration with real-time clinical datasets
 * Model optimization and scalability improvements
 
-## 👩‍💻 Author
+##  Author
 
 Aafiyah Tasneem
